@@ -1,0 +1,7 @@
+{
+  "name": "IonIconInIonItem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
